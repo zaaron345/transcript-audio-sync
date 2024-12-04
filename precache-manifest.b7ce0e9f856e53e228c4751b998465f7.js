@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "845edf6475ddfc9ea8a8edbd98ba72f1",
+    "revision": "fb3eedf9753d6b064baf8d1170c72376",
     "url": "/transcript-audio-sync/index.html"
   },
   {
-    "revision": "15447398d03c10095c80",
+    "revision": "ae788be0f54c5ab7f81d",
     "url": "/transcript-audio-sync/static/css/main.435d5fe5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/transcript-audio-sync/static/js/3.82afb7a3.chunk.js"
   },
   {
-    "revision": "15447398d03c10095c80",
-    "url": "/transcript-audio-sync/static/js/main.9dfaa155.chunk.js"
+    "revision": "ae788be0f54c5ab7f81d",
+    "url": "/transcript-audio-sync/static/js/main.beb7a4d7.chunk.js"
   },
   {
     "revision": "71ee7a2f45045440c6d5",
