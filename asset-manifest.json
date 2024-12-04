@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/transcript-audio-sync/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/transcript-audio-sync/static/js/main.bb65c50c.chunk.js",
+    "main.js.map": "/transcript-audio-sync/static/js/main.bb65c50c.chunk.js.map",
+    "runtime-main.js": "/transcript-audio-sync/static/js/runtime-main.b4e1cde7.js",
+    "runtime-main.js.map": "/transcript-audio-sync/static/js/runtime-main.b4e1cde7.js.map",
+    "static/js/2.5ff95bdd.chunk.js": "/transcript-audio-sync/static/js/2.5ff95bdd.chunk.js",
+    "static/js/2.5ff95bdd.chunk.js.map": "/transcript-audio-sync/static/js/2.5ff95bdd.chunk.js.map",
+    "static/js/3.82afb7a3.chunk.js": "/transcript-audio-sync/static/js/3.82afb7a3.chunk.js",
+    "static/js/3.82afb7a3.chunk.js.map": "/transcript-audio-sync/static/js/3.82afb7a3.chunk.js.map",
+    "index.html": "/transcript-audio-sync/index.html",
+    "precache-manifest.c7235fc23abf51a7f39b7bd7b03a3c82.js": "/transcript-audio-sync/precache-manifest.c7235fc23abf51a7f39b7bd7b03a3c82.js",
+    "service-worker.js": "/transcript-audio-sync/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/transcript-audio-sync/static/css/main.435d5fe5.chunk.css.map",
+    "static/js/2.5ff95bdd.chunk.js.LICENSE.txt": "/transcript-audio-sync/static/js/2.5ff95bdd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/transcript-audio-sync/static/media/logo.06e73328.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e1cde7.js",
+    "static/js/2.5ff95bdd.chunk.js",
+    "static/css/main.435d5fe5.chunk.css",
+    "static/js/main.bb65c50c.chunk.js"
+  ]
+}
