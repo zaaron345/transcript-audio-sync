@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/transcript-audio-sync/static/css/main.3d7db3fa.css",
-    "main.js": "/transcript-audio-sync/static/js/main.d0d36344.js",
+    "main.css": "/transcript-audio-sync/static/css/main.fbc608e1.css",
+    "main.js": "/transcript-audio-sync/static/js/main.702ebfeb.js",
     "static/js/952.752e13e3.chunk.js": "/transcript-audio-sync/static/js/952.752e13e3.chunk.js",
     "static/js/453.ed3810f9.chunk.js": "/transcript-audio-sync/static/js/453.ed3810f9.chunk.js",
     "index.html": "/transcript-audio-sync/index.html",
-    "main.3d7db3fa.css.map": "/transcript-audio-sync/static/css/main.3d7db3fa.css.map",
-    "main.d0d36344.js.map": "/transcript-audio-sync/static/js/main.d0d36344.js.map",
+    "main.fbc608e1.css.map": "/transcript-audio-sync/static/css/main.fbc608e1.css.map",
+    "main.702ebfeb.js.map": "/transcript-audio-sync/static/js/main.702ebfeb.js.map",
     "952.752e13e3.chunk.js.map": "/transcript-audio-sync/static/js/952.752e13e3.chunk.js.map",
     "453.ed3810f9.chunk.js.map": "/transcript-audio-sync/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d7db3fa.css",
-    "static/js/main.d0d36344.js"
+    "static/css/main.fbc608e1.css",
+    "static/js/main.702ebfeb.js"
   ]
 }
