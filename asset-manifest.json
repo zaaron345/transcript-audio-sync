@@ -1,25 +1,17 @@
 {
   "files": {
-    "main.css": "/transcript-audio-sync/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/transcript-audio-sync/static/js/main.beb7a4d7.chunk.js",
-    "main.js.map": "/transcript-audio-sync/static/js/main.beb7a4d7.chunk.js.map",
-    "runtime-main.js": "/transcript-audio-sync/static/js/runtime-main.b4e1cde7.js",
-    "runtime-main.js.map": "/transcript-audio-sync/static/js/runtime-main.b4e1cde7.js.map",
-    "static/js/2.f8a3d5ae.chunk.js": "/transcript-audio-sync/static/js/2.f8a3d5ae.chunk.js",
-    "static/js/2.f8a3d5ae.chunk.js.map": "/transcript-audio-sync/static/js/2.f8a3d5ae.chunk.js.map",
-    "static/js/3.82afb7a3.chunk.js": "/transcript-audio-sync/static/js/3.82afb7a3.chunk.js",
-    "static/js/3.82afb7a3.chunk.js.map": "/transcript-audio-sync/static/js/3.82afb7a3.chunk.js.map",
+    "main.css": "/transcript-audio-sync/static/css/main.3d7db3fa.css",
+    "main.js": "/transcript-audio-sync/static/js/main.d0d36344.js",
+    "static/js/952.752e13e3.chunk.js": "/transcript-audio-sync/static/js/952.752e13e3.chunk.js",
+    "static/js/453.ed3810f9.chunk.js": "/transcript-audio-sync/static/js/453.ed3810f9.chunk.js",
     "index.html": "/transcript-audio-sync/index.html",
-    "precache-manifest.b7ce0e9f856e53e228c4751b998465f7.js": "/transcript-audio-sync/precache-manifest.b7ce0e9f856e53e228c4751b998465f7.js",
-    "service-worker.js": "/transcript-audio-sync/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/transcript-audio-sync/static/css/main.435d5fe5.chunk.css.map",
-    "static/js/2.f8a3d5ae.chunk.js.LICENSE.txt": "/transcript-audio-sync/static/js/2.f8a3d5ae.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/transcript-audio-sync/static/media/logo.06e73328.svg"
+    "main.3d7db3fa.css.map": "/transcript-audio-sync/static/css/main.3d7db3fa.css.map",
+    "main.d0d36344.js.map": "/transcript-audio-sync/static/js/main.d0d36344.js.map",
+    "952.752e13e3.chunk.js.map": "/transcript-audio-sync/static/js/952.752e13e3.chunk.js.map",
+    "453.ed3810f9.chunk.js.map": "/transcript-audio-sync/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.b4e1cde7.js",
-    "static/js/2.f8a3d5ae.chunk.js",
-    "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.beb7a4d7.chunk.js"
+    "static/css/main.3d7db3fa.css",
+    "static/js/main.d0d36344.js"
   ]
 }
